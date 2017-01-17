@@ -19,3 +19,4 @@ Please implement it as you do when submitting a PR to an open source project.
 
 #### Limitations:
 - It only accept 1 parameter and length up to 33 characters.
+- Should not have decimal points, if so numbers after the point will be omitted.
